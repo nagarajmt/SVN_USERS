@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ poi-ooxml-schemas-3.9-20121203.jar com.jcraft.jsch
+ _0.1.31.jar jldap-4.3.jar dom4j-1.6.1.jar poi-3.9-20121203.jar svnkit
+ -1.8.10.jar svnkit-cli-1.8.10.jar xmlbeans-2.3.0.jar poi-ooxml-3.9-20
+ 
+ 121203.jar svnkit-javahl16-1.8.10.jar commons-net-3.2.jar
+Built-By: nagaraj
+Class-Path: .
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Rsrc-Main-Class: GetAccessFiles
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
